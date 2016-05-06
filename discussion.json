@@ -1,0 +1,118 @@
+{
+    "discussion": {
+        "title": "UI vs UX",
+        "discussion": "What's the difference between UI and UX design?",
+        "author": "Camille",
+        "author_id": 1,
+        "datetime": "2015-01-23T18:25:43.511Z",
+        "comments": [
+            {
+                "author": "Dan",
+                "author_id": 2,
+                "datetime": "2015-01-23T18:31:43.511Z",
+                "comment": "There are a lot of erroneous answers in this thread.<br><br>Simply put: UX is the <strong>overall</strong> experience one has with a product or service, which can include a UI. A UI is typically a combination of visual design (the look and feel) and the interaction design (how it works). UX, however, can encompass a wide range of disciplines, from industrial design to architecture to content.",
+                "public": true,
+                "deleted": false,
+                "id": "54215083-0626-4ddb-bf7c-9dea0bbec2e7",
+                "comments": [
+                    {
+                        "author": "James",
+                        "author_id": 3,
+                        "datetime": "2015-01-24T10:15:03.511Z",
+                        "comment": "I think this gets it right much more than other answers, but UX could also include other customer touchpoints I think. Where do those go here? I also disagree with how you've placed the HCI circle... anyone who works in HCI would disagree with that definition (e.g., that it ignores human factors, sound design, visual design, or even IA...)",
+                        "public": true,
+                        "deleted": false,
+                        "id": "70afb8b0-4d8f-45b3-a625-d3e5c4e61cd8"
+                    },
+                    {
+                        "author": "Brady",
+                        "author_id": 4,
+                        "datetime": "2015-02-10T11:42:41.511Z",
+                        "comment": "+1 User Experience encompasses anything in the process that a user experiences; hence the name.",
+                        "public": true,
+                        "deleted": false,
+                        "id": "aeef147a-e419-4873-81d9-81624a7b7eca"
+                    },
+                    {
+                        "author": "Steven",
+                        "author_id": 5,
+                        "datetime": "2015-02-21T10:55:43.511Z",
+                        "comment": "",
+                        "public": true,
+                        "deleted": true,
+                        "id": "8a49f006-4759-41fb-b6ad-b6e452b4ea8d"
+                    }
+                ]
+            },
+            {
+                "author": "Todd",
+                "author_id": 6,
+                "datetime": "2015-02-10T11:25:43.511Z",
+                "comment": "UI design is an activity/discipline that focuses on the way someone interfaces with the system—graphical, physical, or otherwise. UI is an activity/discipline that is part of the UX umbrella.<br><br>UX, or User Experience is an umbrella term that refers to pretty much any activity/discipline associated with product or service design.",
+                "public": true,
+                "deleted": false,
+                "id": "c461df55-2409-462a-8932-61781429e3fd",
+                "comments": []
+            },
+            {
+                "author": "Jeff",
+                "author_id": 8,
+                "datetime": "2015-02-23T11:55:43.511Z",
+                "comment": "UI Design is a component of UX design. In other words, the user interface is one part of the user experience. There are many other components that play into the experience therefore UX design is a more holistic view of a product's experience from the customer's perspective.",
+                "public": true,
+                "deleted": false,
+                "id": "dbb67fd0-eae6-45d3-894b-7ae2715736f7",
+                "comments": []
+            },
+            {
+                "author": "Brady",
+                "author_id": 4,
+                "datetime": "2015-03-13T21:02:14.511Z",
+                "comment": "User interface refers to what the user interacts and interfaces with, such as the buttons and forms and manner of control of the application. There are many more elements to user experience, such as information architecture -- how information is categorised and presented, usually to emphasise certain aspects or facilitate certain actions. There is also usability testing, which tests how easy to use and understand the application is. Then there's visual design, which deals with the look and feel. There are many other aspects to user experience because the user's experience is more than just what the user interacts with, it is anything and everything that you do to design the user's experience of your application.",
+                "public": true,
+                "deleted": false,
+                "id": "b76e6f1b-cb82-4963-b715-f7e5c0f0af7a",
+                "comments": [
+                    {
+                        "author": "Andy",
+                        "author_id": 7,
+                        "datetime": "2015-03-20T16:55:43.511Z",
+                        "comment": "I'd suggest that UX (and UI and several other acronyms) are part of service design, not the other way around. It depends on the project, though, as some SD projects are pretty much straight UX/CX projects. But many (the good ones!) are about organisational change, people, networks, etc. as much as they are about specific touchpoint or experience design.",
+                        "public": true,
+                        "deleted": false,
+                        "id": "8c51121c-e346-48db-93e7-22c338a2c879"
+                    }
+                ]
+            },
+            {
+                "author": "Chrys",
+                "author_id": 9,
+                "datetime": "2015-03-26T14:12:43.511Z",
+                "comment": "It's like a restaurant. The utensils, plate, table, chair, that's user interface (which can contribute to experience). The food, service, ambience, that's user experience.",
+                "public": true,
+                "deleted": false,
+                "id": "d2dece37-64ff-47fb-8d4b-c71075d13f82",
+                "comments": [
+                    {
+                        "author": "Laís",
+                        "author_id": 10,
+                        "datetime": "2015-03-26T16:55:43.511Z",
+                        "comment": "I think a better analogy may be UI = making sure the food is nutritionally complete, is the correct portion size, and is served at the right temperature. UX = making the food look & taste fantastic.",
+                        "public": true,
+                        "deleted": false,
+                        "id": "ca987d9c-b244-4a73-9dc8-2e1779476092"
+                    },
+                    {
+                        "author": "Brady",
+                        "author_id": 4,
+                        "datetime": "2015-03-27T11:23:45.511Z",
+                        "comment": "Can't one argue then that UI design is a subset of UX design since UI affects/contributes to UX? If the utensils, plate, etc. are trashy then the perceived food, service, etc. also suffers.",
+                        "public": true,
+                        "deleted": false,
+                        "id": "6b1fc550-7529-418e-842c-6ee1607aa0a6"
+                    }
+                ]
+            }
+        ]
+    }
+}

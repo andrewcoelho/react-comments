@@ -1,0 +1,73 @@
+li.comment {
+  margin: 10px 0;
+  padding: 6px 10px;
+  border-left: 1px solid #ccc;
+  &.is-author {
+    border-left: 2px solid @blue;
+  }
+  @media(min-width: 550px) {
+    padding: 6px 20px;
+  }
+}
+
+div.comment-info {
+  font-size: 1.3rem;
+}
+
+span.comment-author {
+  color: darken(@font-color, 20%);
+  font-weight: 400;
+}
+
+span.comment-deleted {
+  font-size: 1.4rem;
+  font-style: italic;
+}
+
+span.comment-actions {
+  padding: 0 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+span.comment-action {
+  padding: 0 4px;
+  cursor: pointer;
+  transition: color 0.1s linear;
+  &:hover {
+    color: darken(@font-color, 20%);
+  }
+}
+
+div.comment-editor {
+  textarea {
+    min-height: 100px;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 4px;
+  }
+  button:last-child {
+    margin-left: 10px;
+  }
+}
+
+div.delete-confirmation-outer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(255,255,255,0.9);
+}
+
+div.delete-confirmation-inner {
+  text-align: center;
+  button:last-child { margin-left: 10px; }
+}
